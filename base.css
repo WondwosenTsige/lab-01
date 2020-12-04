@@ -132,3 +132,71 @@ body{
 
 }
 }
+
+
+@media(min-width: 961px){
+
+    body{
+        max-width: 1200px;
+        /* box-sizing: border-box; */
+        margin: auto;
+    }
+    
+    .a{
+        height: 100px;
+        background-color: red;
+    
+    }
+    .b{
+        height: 600px;
+        width: 20%;
+        background-color: #100566;
+        float: left;
+    }
+    
+    .c{
+        height: 200px;
+        width: 40%;
+        background-color: blue;
+        float: left;
+    }
+    .d{
+        height: 200px;
+        width: 40%;
+        background-color: #895471;
+        float: left;
+    
+    }
+    
+    .e{
+        height: 250px;
+        width: 20%;
+        background-color: #475471;
+        float: left;
+    
+    }
+    .f{
+        height: 250px;
+        width: 20%;
+        background-color: red;
+        float: left;
+    
+    }
+    .g{
+        height: 250px;
+        width: 20%;
+        background-color: violet;
+        float: left;
+    
+    
+    }
+    .h{
+        height: 250px;
+        width: 20%;
+    }
+    .i{
+        height: 150px;
+        width: 80%
+    
+    }
+    }
