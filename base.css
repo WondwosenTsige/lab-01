@@ -70,8 +70,8 @@ div{
 
 body{
     max-width: 960px;
-    /* box-sizing: border-box; */
     margin: auto;
+    /* box-sizing: border-box; */
 }
 
 .a{
